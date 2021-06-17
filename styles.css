@@ -82,7 +82,7 @@ body {
     display: inline-block;
     text-align: center;
     cursor: pointer;
-    color:  #49a6e9;
+    color:  #e4442f;
 }
 .switch {
     position: absolute;
@@ -90,7 +90,7 @@ body {
     height: 100%;
     top: 0;
     left: 0;
-    background-color: #49a6e9;
+    background-color: #e4442f;
     border-radius: 10px;
     display: block;
     transition:  all 0.3s linear;
